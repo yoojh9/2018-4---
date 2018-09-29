@@ -2,6 +2,7 @@
 
 ## 1. 목표
 #### 1-1. 읽을 책
+- effective java
 
 #### 1-2. 개발
 - spring boot actuator 사용
